@@ -5,6 +5,7 @@
 
 ## 使用图片
 ![应用截图](./screenshot/art.png)
+![应用截图](./screenshot/art1.png)
 ## 使用方法
 * 手机连接电脑，并开启`开发者选项->USB调试`；
 > 注意：
