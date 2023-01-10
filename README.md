@@ -1,7 +1,7 @@
 # README.md
 ***************************************
 # phone-mirror-update
-本项目是在对`huanglqweiwei`的phone-mirror(https://github.com/huanglqweiwei/PhoneMirror）进行修改之后重新编译的，弥补了原版无法对安卓9以上的手机控制的缺陷，最低支持java6，可同时控制多台手机
+本项目是在对`huanglqweiwei`的phone-mirror(https://github.com/huanglqweiwei/PhoneMirror)进行修改之后重新编译的，弥补了原版无法对安卓9以上的手机控制的缺陷，最低支持java6，可同时控制多台手机
 
 ## 使用图片
 ![应用截图](./screenshot/art.png)
