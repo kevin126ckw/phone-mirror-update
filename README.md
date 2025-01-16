@@ -16,4 +16,4 @@ java -jar ./phone-mirror.jar
 ```
 ## 说明
 * 手机画面同步使用了[minicap](https://github.com/openstf/minicap)库；
-* 点击事件处理使用项目目录下的android工程`TouchServer`。
+* 点击事件处理使用原项目目录下的android工程`TouchServer`。
